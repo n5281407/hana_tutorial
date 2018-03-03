@@ -9,6 +9,6 @@ create column table "TENANT_TEST"."sap.fpa.services.security::Security.T_Profile
     APPROVER nvarchar(256),
     DEFAULT_ASSIGN integer NOT NULL DEFAULT 0,
     FULL_DATA_ACCESS integer NOT NULL DEFAULT 0,
-    PREDEFINED_ROLE boolean,
+    PREDEFINED_ROLE integer,
     primary key(PROFILE_ID)
 );
