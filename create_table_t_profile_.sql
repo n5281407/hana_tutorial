@@ -1,6 +1,6 @@
 -- create a table with schema name and also with default value and not null
 create column table "TENANT_TEST"."sap.fpa.services.security::Security.T_Profile1_" (
-    PROFILE_ID nvarchar(400),
+    PROFILE_ID nvarchar(400),  --String(400)
     DESCRIPTION nvarchar(2000),
     VALID_FROM seconddate,
     VALID_TILL seconddate,
