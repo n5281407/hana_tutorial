@@ -1,4 +1,4 @@
-#HANA SQLScript for HANA Tutorial
+# HANA SQLScript for HANA Tutorial
 
 Note: double quote is representing the column name, schema name, table name;
       whereas single quote is representing as string value as following example
