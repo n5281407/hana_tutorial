@@ -3,7 +3,7 @@
 > Note: double quote is representing the column name, schema name, table name;
       whereas single quote is representing as string value as following example
 
---inert data into region table
+[x]inert data into region table
 ```
 insert into "SAP_HANA_TUTORIAL"."REGION" values(1, 'Americas', 'North-America');
 insert into "SAP_HANA_TUTORIAL"."REGION" values(2, 'Americas', 'South-America');
