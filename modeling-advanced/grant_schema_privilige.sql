@@ -1,0 +1,1 @@
+grant select on schema "SAP_HANA_TUTORIAL_ADV" to _SYS_REPO with grant option;
