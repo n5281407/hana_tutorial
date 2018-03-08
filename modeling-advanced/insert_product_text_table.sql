@@ -1,0 +1,10 @@
+insert into "SAP_HANA_TUTORIAL_ADV"."PRODUCT_TEXT_TABLE" values(1,'E','Cotton Shirts');
+insert into "SAP_HANA_TUTORIAL_ADV"."PRODUCT_TEXT_TABLE" values(1,'D','Baumwoll-Shirts');
+insert into "SAP_HANA_TUTORIAL_ADV"."PRODUCT_TEXT_TABLE" values(2,'E','Leather jacket');
+insert into "SAP_HANA_TUTORIAL_ADV"."PRODUCT_TEXT_TABLE" values(2,'D','Lederjacke');
+insert into "SAP_HANA_TUTORIAL_ADV"."PRODUCT_TEXT_TABLE" values(3,'E','Trousers and Pants');
+insert into "SAP_HANA_TUTORIAL_ADV"."PRODUCT_TEXT_TABLE" values(3,'D','Hosen und Hosen');
+insert into "SAP_HANA_TUTORIAL_ADV"."PRODUCT_TEXT_TABLE" values(4,'E','Coats and Blazers');
+insert into "SAP_HANA_TUTORIAL_ADV"."PRODUCT_TEXT_TABLE" values(4,'D','Mantel and Jacken');
+insert into "SAP_HANA_TUTORIAL_ADV"."PRODUCT_TEXT_TABLE" values(5,'E','Purse and handbags');
+insert into "SAP_HANA_TUTORIAL_ADV"."PRODUCT_TEXT_TABLE" values(5,'D','Geldborse und Handtaschen');
